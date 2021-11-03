@@ -1,0 +1,38 @@
+body {
+  font-size: 20px;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  background-image: url(https://sites.google.com/site/andresacostavzla/_/rsrc/1436846174070/home/Fondo%20HD%20para%20bajar%20-%20WiriWiri_info%20-%20%28128%29.png);  
+}
+.container{
+    color: #ffff;
+    
+}
+.header-container{
+    display: block;
+    background: seagreen;
+  }
+.header{
+  display: inline;
+  color: black;
+
+}
+
+.section-container{
+   padding: 20px;
+
+}
+footer{
+    width: 100%;
+    background-color: rgb(73, 17, 179); 
+}
+.nav-footer-container nav li a {
+  color: rgb(0, 106, 245);
+  display: inline;
+}
+.nav-footer-container{
+  display: inline-block;
+}
+
+
+
+
